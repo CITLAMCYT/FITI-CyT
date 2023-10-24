@@ -27,9 +27,13 @@
 }
 
 .title__project {
-  color: #d6863e;
   text-align: center;
-  padding: 2rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 1rem;
+  background-color: #40a4bc;
+  color: #fff;
+  margin-block: 1rem;
 }
 
 .project__video {
@@ -93,7 +97,7 @@
   }
 
   .title__project {
-    padding: 2rem;
+    padding: 2rem;  
   }
 
   .project__video {
